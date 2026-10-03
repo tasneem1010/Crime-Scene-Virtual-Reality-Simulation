@@ -112,7 +112,7 @@ Clamped to 0–100, recomputed on every event, with critical evidence (like the 
 
 | In-headset report | Instructor dashboard |
 |---|---|
-| ![](docs/images/report-headset.png) | ![](docs/images/instructor-dashboard.png) |
+| ![](docs/images/report-headset.png) | ![](docs/images/instructor_dashboard.png) |
 
 ### 4. Non-blocking AI forensic advisor
 
@@ -203,7 +203,7 @@ Built as a graduation project at **Birzeit University, Department of Computer Sc
 
 Supervised by **Dr. Sobhi Ahmad**.
 
-[Read the full project report](docs/report/Crime_Scene_VR_Graduation_Project_Report.pdf)
+[Read the full project report](https://drive.google.com/file/d/1VaOlJNucDdBVWFdRTFg4if3Q3gBwl1_f/view?usp=sharing)
 
 ## Future work
 
