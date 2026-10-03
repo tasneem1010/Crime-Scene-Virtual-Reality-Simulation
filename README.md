@@ -168,7 +168,7 @@ All tools live in a radial menu; students point the thumbstick at a tool to equi
 <!-- Suggested: a row of screenshots -->
 | UV reveals a latent print | Camera framing marked evidence | Tagging panel |
 |---|---|---|
-| ![](docs/images/uv-light.png) | ![](docs/images/camera.png) | ![](docs/images/tagging.png) |
+| ![](docs/images/uv_light.png) | ![](docs/images/camera.png) | ![](docs/images/tagging.png) |
 
 ---
 
